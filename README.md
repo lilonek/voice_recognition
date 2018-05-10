@@ -1,4 +1,5 @@
-VOICE RECOGINTION
+#VOICE RECOGINTION
+
 
 Magdalena Kopciuch
-Lidia Wójtowicz
+Lidia WÃ³jtowicz
